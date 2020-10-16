@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="350" src="Me.gif">
+  <img width="600" height="300" src="Me.gif">
 </p>
 
 [![Website](https://img.shields.io/website?label=DS_Portfolio_Website&style=for-the-badge&url=https://vaibhav1595.github.io/Vaibhav_Portfolio/)](https://vaibhav1595.github.io/Vaibhav_Portfolio/)
