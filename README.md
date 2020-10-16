@@ -1,4 +1,6 @@
-![](Me.gif)
+<p align="center">
+  <img width="700" height="350" src="Me.gif">
+</p>
 
 <!--
 **vaibhav1595/vaibhav1595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
