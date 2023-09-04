@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=DS_Portfolio_Website&style=for-the-badge&url=https://vaibhav1595.github.io/Vaibhav_Portfolio/)](https://vaibhav1595.github.io/Vaibhav_Portfolio/)
 
-## I'm a Data Enthusiast!!
+## I'm a Data Scientist @ RIVIAN
 Here's a list of things I currently keep myself busy with:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
